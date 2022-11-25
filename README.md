@@ -3,6 +3,9 @@ Smart Lender - Applicant Credibility Prediction for Loan Approval
 Data collection and in depth study about the loan approval startegies
 Loan predicction using python flask
 
+### DEMO URL: 
+https://drive.google.com/file/d/1V5BHbfT2yhZAjvOTuRWaGtZYhGCVlqXX/view?usp=sharing
+
 ## Project Roadmap
 1. Data science study 
 2. Data preprocessing Techniques
