@@ -1,4 +1,4 @@
-# IBM-Project-18475-1659685844
+# IBM-Project-18487-1659686031
 Smart Lender - Applicant Credibility Prediction for Loan Approval
 Data collection and in depth study about the loan approval startegies
 Loan predicction using python flask
